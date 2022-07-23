@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f46d6d1c-69f6-4a5e-91f1-cc9754ad1127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/App4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson8/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson8/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <recent name="lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App4">
+  <component name="RunManager" selected="Application.lesson8.App">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -153,9 +154,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson8.App" />
         <item itemvalue="Application.App4" />
         <item itemvalue="Application.AppSlack" />
-        <item itemvalue="Application.lesson8.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.TicketPriceFuncExmp" />
       </list>
@@ -219,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658605281047</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson8">
+      <created>1658613658021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658613658021</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
