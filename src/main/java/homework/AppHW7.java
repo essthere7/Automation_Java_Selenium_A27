@@ -1,4 +1,4 @@
-package homework7;
+package homework;
 
 public class AppHW7 {
     public static void main(String[] args) {

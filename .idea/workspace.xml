@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f46d6d1c-69f6-4a5e-91f1-cc9754ad1127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework7/AppHW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/SchoolsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson7/TicketPriceFuncExmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework7/AppHW7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/AppHW7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -35,12 +42,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/Public/Documents/A27_Automation/src/main/java/lesson7",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -48,7 +62,21 @@
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
+      <option name="MAIN_CLASS_NAME" value="lesson7.App" />
+      <module name="A27_Automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketPriceFuncExmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.TicketPriceFuncExmp" />
       <module name="A27_Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -89,6 +117,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.TicketPriceFuncExmp" />
       </list>
     </recent_temporary>
   </component>
@@ -115,12 +144,20 @@
       <option name="project" value="LOCAL" />
       <updated>1658599498752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HomeWork7">
+      <created>1658600881440</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658600881440</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bigining" />
     <MESSAGE value="Lesson 7 JavaCore Function &#10;Example TicketPrice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7 JavaCore Function &#10;Example TicketPrice" />
+    <MESSAGE value="HomeWork7" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork7" />
   </component>
 </project>

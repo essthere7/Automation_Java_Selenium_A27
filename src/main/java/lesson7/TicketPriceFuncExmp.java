@@ -1,5 +1,6 @@
+package lesson7;
 
-public class App {
+public class TicketPriceFuncExmp {
     public static void main(String[] args) {
         System.out.println("Hello Github");
         int res = mult3(3, 3, 5);
