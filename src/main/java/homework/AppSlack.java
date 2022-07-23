@@ -1,7 +1,8 @@
 package homework;
     import java.util.Arrays;
 
-     public class AppSlack {
+//    Sort Array
+      public class AppSlack {
 
         public static int sum(int[] a){
             int r=0;
