@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f46d6d1c-69f6-4a5e-91f1-cc9754ad1127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/SchoolsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/AppSlack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson7/TicketPriceFuncExmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework7/AppHW7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/AppHW7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,7 +51,7 @@
       <recent name="lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.AppSlack">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -75,6 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppSlack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.AppSlack" />
+      <module name="A27_Automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TicketPriceFuncExmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson7.TicketPriceFuncExmp" />
       <module name="A27_Automation" />
@@ -85,6 +96,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson8.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson8.App" />
+      <module name="A27_Automation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,6 +141,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppSlack" />
+        <item itemvalue="Application.lesson8.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.TicketPriceFuncExmp" />
       </list>
@@ -151,13 +178,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658600881440</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson7 Enums">
+      <created>1658602562037</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658602562037</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson7 Enums">
+      <created>1658602652977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658602652977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bigining" />
     <MESSAGE value="Lesson 7 JavaCore Function &#10;Example TicketPrice" />
     <MESSAGE value="HomeWork7" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork7" />
+    <MESSAGE value="Lesson7 Enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson7 Enums" />
   </component>
 </project>
