@@ -6,6 +6,6 @@ public enum SchoolsType {
     CHARTER,
     REMOTE,
     HOME_SCHOOLS,
-    sUNDAY_SCHOLS
+    SUNDAY_SCHOLS
 
 }
