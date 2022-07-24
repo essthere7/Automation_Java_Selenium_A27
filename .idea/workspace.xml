@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f46d6d1c-69f6-4a5e-91f1-cc9754ad1127" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework8/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework8/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework8/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework8/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lesson8/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson8/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson8/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson8/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson8/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson8.App">
+  <component name="RunManager" selected="Application.homework8.App">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -103,16 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicketPriceFuncExmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.TicketPriceFuncExmp" />
-      <module name="A27_Automation" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="homework8.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework8.App" />
+      <module name="A27_Automation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework8.App" />
         <item itemvalue="Application.lesson8.App" />
         <item itemvalue="Application.App4" />
         <item itemvalue="Application.AppSlack" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.TicketPriceFuncExmp" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658614396529</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson8">
+      <created>1658680534284</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658680534284</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,8 +1,5 @@
 package lesson8;
 
-import javax.sound.midi.Soundbank;
-import java.time.Period;
-
 public class App {
     public static void main(String[] args) {
         Person anna = new Person();
